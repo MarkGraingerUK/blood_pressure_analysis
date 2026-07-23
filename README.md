@@ -49,5 +49,5 @@ This project transforms raw patient data into actionable health insights through
 ## 🚀 How to Explore
 1. Clone or download this repository to your local machine.
 2. Open `blood_pressure_analysis.xlsx` in Microsoft Excel.
-3. Navigate to the **Dashboard** tab to interact with the slicers, toggle filters, and explore the visual insights.
+3. Navigate to the **Dashboard** tab to interact with the slicer, toggle filters, and explore the visual insights.
 4. *(Optional)* Open Power Query via **Data > Queries & Connections** to inspect the underlying data transformation and ETL steps.
