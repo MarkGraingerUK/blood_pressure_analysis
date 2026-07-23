@@ -3,6 +3,8 @@
 A comprehensive healthcare analytics dashboard built **entirely in Microsoft Excel and Power Query**, showcasing advanced data preparation, modeling, pivot table aggregation, and interactive visualization techniques.
 
 ---
+![Blood Pressure Analysis Charts](blood_pressure_analysis.png)
+---
 
 ## 📊 Project Overview
 This project transforms raw patient data into actionable health insights through an executive-level dashboard. Built without external scripting languages, it highlights the robust capabilities of native Excel and Power Query workflows for end-to-end data cleaning, transformation, and dynamic reporting.
